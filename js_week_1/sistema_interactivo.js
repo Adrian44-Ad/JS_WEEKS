@@ -1,8 +1,8 @@
 
 function pressButton() {
 
-  let name = prompt("Input Your Name...");
-  let age = prompt("Input Your Age..");
+  let name = prompt("Ingresa tu nombre");
+  let age = prompt("Ingresa tu edad");
 
   // Verificacion para la var AGE
   if (isNaN(age)) {
